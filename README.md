@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yourabusufiyan
 - 👀 I’m interested in PHP, Node.js and Python
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently learning Veu 3 and Makeup 😁.
 - 💞️ I’m looking to collaborate on WordPress Theme
 - 📫 How to reach me. 
 
